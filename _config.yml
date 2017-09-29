@@ -86,7 +86,7 @@ feed:
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: https://github.com/yousl/blog.git
+  repo: git@github.com:yousl/blog.git
   branch: master
 
 #sitemap
