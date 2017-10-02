@@ -6,7 +6,7 @@ menu:
 
 # SubNav
 subnav:
-  github: "https://github.com/xieyd"
+  github: "https://github.com/yousl"
   #weibo: "#"
   rss: "atom.xml"
   #zhihu: "#"
@@ -68,7 +68,7 @@ google_analytics: ''
 favicon: /favicon.png
 
 #你的头像url
-avatar: https://avatars2.githubusercontent.com/u/32186900?v=4&amp;s=400&amp;u=a8aa1820acfaf4364ac30ac8884f247fa3e5fef7
+avatar: http://a1.qpic.cn/psb?/62469739/FiPwDeU4ZhcyW0emCXEW1CUFrpDT5OGSDih8eEsYCOM!/b/dOcAAAAAAAAA&bo=gAKAAgAAAAABACc!&rf=viewer_4
 
 #是否开启分享
 share_jia: true
